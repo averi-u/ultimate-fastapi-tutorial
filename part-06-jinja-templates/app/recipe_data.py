@@ -1,13 +1,13 @@
 RECIPES = [
     {
         "id": 1,
-        "label": "Chicken Vesuvio",
+        "label": "Chicken soupp",
         "source": "Serious Eats",
         "url": "http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html",
     },
     {
         "id": 2,
-        "label": "Chicken Paprikash",
+        "label": "kungbao Chicken ",
         "source": "No Recipes",
         "url": "http://norecipes.com/recipe/chicken-paprikash/",
     },
